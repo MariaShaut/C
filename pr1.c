@@ -1,10 +1,4 @@
-/* Assignment 1
-   TCSS-333
-   Autumn 2017
-   Maryia Shautsova
-
-
-   This program converts IP addresses to/from their dot decimal notation.
+/*   This program converts IP addresses to/from their dot decimal notation.
    User can choose next options: 
    1 allows to find IP address in decimal and binary forms,
    find subnet mask in decimal, dot decimal and binary forms, 
